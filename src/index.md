@@ -1,5 +1,6 @@
 --- 
 title: 'Issue 33'
+metaDesc: 'A made up agency site that you build if you take Learn Eleventy From Scratch, by Piccalilli'
 layout: 'layouts/home.html'
 intro:
   eyebrow: 'Digital Marketing is our'
@@ -22,6 +23,7 @@ featuredWork:
   summary: 'Some stuff that should give you an idea of what we’re all about.'
 studioFeed:
   title: 'From inside the studio'
+  
 ---
 
 This is pretty _rad_, right?
